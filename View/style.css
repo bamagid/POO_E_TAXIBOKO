@@ -1,0 +1,189 @@
+body{
+    background-color: #fff;
+    font-family: Verdana,Tahoma, sans-serif;
+    font-size: large;
+}
+.form{
+    height: 700px;
+    display: flex;
+    justify-content:space-around;
+    justify-items: center;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    align-items:center;
+}
+.form1{
+    background-color: #f0f2f5;
+    height: 500px;
+    min-height: 200px;
+    padding: 0 2%;
+    margin: 15% auto;
+    width:30% ;
+}
+h1{
+    text-align: left;
+    padding: 0;
+   
+}
+.p1 {
+    color: rgba(0, 0, 0, 0.626);
+    text-align: left;
+    padding: 0;
+}
+button.up{
+    width: 100%;
+    border-radius: 6px;
+    border: #fff 1px solid;
+    color: #fff;
+    background-color:#18538e;
+    padding: 12px;
+    margin-bottom: 20px;
+    font-size: 17px;
+}
+.p2{
+    text-align: center;
+    margin-top: -25px;
+}
+.hr1{
+    width: 45%;
+    margin: 0 60% 10px 0;
+}
+.hr2{
+    width: 45%;
+    margin: -26px 0 15px 55%;
+}
+.entrer{
+    width: 100%;
+    border-radius: 6px;
+    outline: none;
+    border: #fff 1px solid;
+    color: black;
+    padding: 10px;
+    margin-left: -12px;
+}
+.entrer1{
+    width: 100%;
+    border-radius: 6px;
+    outline: none;
+    border: #fff 1px solid;
+    color: black;
+    padding: 10px;
+    margin-left: -12px;
+    margin-bottom: 30px;
+}
+.label{text-align: left;
+padding: 0;}
+.foot_form{
+    display: flex;
+    justify-items: center;
+    justify-content: space-between;
+}
+button.down{
+    width: 40%;
+    border-radius: 6px;
+    border: #fff 1px solid;
+    color: #fff;
+    background-color:#18538e;
+    padding: 12px;
+    margin-top: auto;
+    font-size: 17px;
+}
+.form2{
+    background-color: #f0f2f5;
+    height: 500px;
+    min-height: 200px;
+    padding: 0 2%;
+    margin: 15% auto;
+    width:40% ;
+}
+.h1f2{
+    text-align: left;
+    padding: 0;
+    margin-bottom: -30px;
+}
+.p1f2 {
+    color: rgba(0, 0, 0, 0.626);
+    text-align: left;
+    padding: 0;
+}
+.p2f2{
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+.gift{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.fa-gift{
+    margin-right: 10px;
+    margin-top: 20px;
+    size: 200px;
+}
+.pre_nom{
+    display: flex;
+    justify-content: space-around;
+}
+.entrern{
+    width: 100%;
+    border-radius: 6px;
+    outline: none;
+    border: #fff 1px solid;
+    color: black;
+    padding: 10px 10px 10px 40px;
+}
+.entrerp{
+    width: 100%;
+    border-radius: 6px;
+    outline: none;
+    border: #fff 1px solid;
+    color: black;
+    padding: 10px 70px 10px 10px;
+    margin-left: -60px;
+}
+.prenom{
+   display: block;
+   align-items: start;
+    
+}
+label{
+text-align: left;
+padding: 0;
+margin: 0;}
+.lab_pre{
+display: flex;
+margin: 0 0px -20px -50px;
+}
+button{
+    width: 40%;
+    border-radius: 6px;
+    border: #fff 1px solid;
+    color: #fff;
+    background-color:#18538e;
+    padding: 12px;
+    margin-top: auto;
+    font-size: 17px;
+}
+.foot{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 10px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.telephone{
+    text-align: center;
+    width: 100%;
+    border-radius: 6px;
+    outline: none;
+    border: #fff 1px solid;
+    color: black;
+    padding: 10px;
+    margin-left: -12px;
+    background-image:url(senegal_flag.png);   
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: 10px center;
+}
